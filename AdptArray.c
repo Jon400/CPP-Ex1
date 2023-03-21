@@ -1,6 +1,10 @@
 #include "AdptArray.h"
 #include <stdlib.h>
 
+/*
+Sources:
+1. Abstract Data Type (ADT) TA document of Technion
+*/
 struct AdptArray_
 {
     int size; // The size of the array
